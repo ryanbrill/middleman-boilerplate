@@ -1,0 +1,9 @@
+// Compass
+@import "compass";
+@import "h5bp";
+
+@include h5bp-normalize;
+
+body {
+	background: #fff;
+}
