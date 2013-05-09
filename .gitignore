@@ -12,3 +12,10 @@
 
 # Ignore Sass' cache
 /.sass-cache
+
+# Ignore .DS_Store
+/.DS_Store
+
+# Ignore IDE project files
+/middleman.tmproj
+/middleman.esproj
