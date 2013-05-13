@@ -1,9 +1,14 @@
 // Compass
 @import "compass";
 @import "h5bp";
-
 @include h5bp-normalize;
 
-body {
-	background: #fff;
-}
+// Partials
+//@import "partials/sprites";
+@import "partials/layout";
+@import "partials/tables";
+@import "partials/forms";
+@import "partials/global";
+@import "partials/site-header";
+@import "partials/site-footer";
+@import "partials/modules";
